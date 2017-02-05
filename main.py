@@ -8,6 +8,7 @@ fdir = '/Users/aryaf/Desktop/codes/PyCharms/AI_HW/'
 
 sys.path.insert(0, fdir+'scr')
 sys.path.insert(0, fdir+'scr/HW1')
+sys.path.insert(0, fdir+'scr/HW2')
 sys.path.insert(0, fdir+'data')
 sys.path.insert(0, fdir+'scr/libraries')
 

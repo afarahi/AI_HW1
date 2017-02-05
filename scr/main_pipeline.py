@@ -17,7 +17,8 @@ def main_pipeline():
 
     elif argument == 'HW2':
 
-        pass
+        from HW2 import hw2_task3_pipeline
+        hw2_task3_pipeline()
 
     elif argument == 'HW3':
 
