@@ -76,6 +76,7 @@ def hw2_task3_pipeline():
     print "steepest descent after termination : ", queens_problem.run([1, 1, 1, 1, 1, 1, 1, 1])
     print "Moves: ", queens_problem.moves
     print "number of moves : ", len(queens_problem.moves)-1
+    print "cost of the final state : ", cost_function(queens_problem.state)
 
 
     npr.seed(148)
