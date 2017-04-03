@@ -1,0 +1,4 @@
+R,F,F,C
+R,F,R,R
+F,C,F,F
+F,R,F,R

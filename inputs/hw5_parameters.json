@@ -1,0 +1,8 @@
+{"epsilon":0.0001,
+  "gamma": 0.1,
+  "pr": 0.99,
+  "F-Reward": 0,
+  "R-Reward": 1,
+  "C-Reward": 5,
+  "BROKEN-Reward": 0
+}
