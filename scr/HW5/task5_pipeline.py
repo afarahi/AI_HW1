@@ -17,6 +17,6 @@ def task5_pipeline():
     print "Final Expected Utilities + Resulting Policy : "
     grid.visualize()
 
-    # grid.generate_latex_table()
+    grid.generate_latex_table()
 
     print "OK"

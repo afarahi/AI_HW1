@@ -1,0 +1,1 @@
+from task6_pipeline import task6_pipeline

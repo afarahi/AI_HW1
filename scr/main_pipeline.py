@@ -25,3 +25,11 @@ def main_pipeline():
         from HW5 import task5_pipeline
         task5_pipeline()
         pass
+
+    elif argument == 'HW6':
+
+        from HW6 import task6_pipeline
+        task6_pipeline()
+        pass
+
+

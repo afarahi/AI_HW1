@@ -10,6 +10,7 @@ sys.path.insert(0, fdir+'scr')
 sys.path.insert(0, fdir+'scr/HW1')
 sys.path.insert(0, fdir+'scr/HW2')
 sys.path.insert(0, fdir+'scr/HW5')
+sys.path.insert(0, fdir+'scr/HW6')
 sys.path.insert(0, fdir+'data')
 sys.path.insert(0, fdir+'scr/libraries')
 
